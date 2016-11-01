@@ -1,9 +1,9 @@
-# Elm Language Learning Material 
+# Elm Language Learning Material
 
 ## Purpose
 
-The purpose of this repository is to document my experience learning elm, as well as provide several code examples 
-of how to do things the "Elm" way. I hope to include a few smaller projects incorporating Elm as well. 
+The purpose of this repository is to document my experience learning elm, as well as provide several code examples
+of how to do things the "Elm" way. I hope to include a few smaller projects incorporating Elm as well.
 
 ## Resources
 
@@ -11,4 +11,4 @@ of how to do things the "Elm" way. I hope to include a few smaller projects inco
 
 ## Index
 
-1. [Walkthrough of the Documentation]()
+1. [Walkthrough of the Documentation](https://github.com/garrett-vangilder/ElmLearningMaterial/tree/master/docExamples)
