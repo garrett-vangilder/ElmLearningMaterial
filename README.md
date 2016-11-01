@@ -13,6 +13,9 @@ of how to do things the "Elm" way. I hope to include a few smaller projects inco
 
 [Let's Be Mainstream/User Focused Design in Elm](http://www.elmbark.com/2016/03/16/mainstream-elm-user-focused-design)
 
+[An Intro to Elm by Richard Feldman](https://www.youtube.com/watch?v=zBHB9i8e3Kc)
+
+
 ## Index
 
 1. [Walkthrough of the Documentation](https://github.com/garrett-vangilder/ElmLearningMaterial/tree/master/docExamples)
