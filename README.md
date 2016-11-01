@@ -15,6 +15,8 @@ of how to do things the "Elm" way. I hope to include a few smaller projects inco
 
 [An Intro to Elm by Richard Feldman](https://www.youtube.com/watch?v=zBHB9i8e3Kc)
 
+[Elm for Beginners](http://courses.knowthen.com/p/elm-for-beginners)
+
 
 ## Index
 
