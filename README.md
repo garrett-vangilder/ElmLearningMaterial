@@ -21,6 +21,8 @@ of how to do things the "Elm" way. I hope to include a few smaller projects inco
 
 [Elm for Beginners](http://courses.knowthen.com/p/elm-for-beginners)
 
+[Elm for Beginners Exercises Repo](https://github.com/knowthen/elm)
+
 
 ## Index
 
