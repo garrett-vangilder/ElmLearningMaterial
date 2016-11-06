@@ -2,14 +2,13 @@ import Basics exposing (..)
 import String exposing (..)
 import Html
 
-maxCharacterLength = 
-    10
 
-upperCase name = 
-    if length name > maxCharacterLength then      
+
+upperCase maxLength name = 
+    if length name > maxLength then      
         toUpper name
     else
         name
 
 main = 
-    Html.text (upperCase "james moore")
+    Html.text (upperCase 10 "james moore")
