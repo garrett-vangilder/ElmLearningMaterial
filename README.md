@@ -23,6 +23,8 @@ of how to do things the "Elm" way. I hope to include a few smaller projects inco
 
 [Elm for Beginners Exercises Repo](https://github.com/knowthen/elm)
 
+[Elm Tutorial](https://www.elm-tutorial.org/en/)
+
 
 ## Index
 
