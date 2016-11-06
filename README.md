@@ -29,3 +29,5 @@ of how to do things the "Elm" way. I hope to include a few smaller projects inco
 ## Index
 
 1. [Walkthrough of the Documentation](https://github.com/garrett-vangilder/ElmLearningMaterial/tree/master/docExamples)
+2. [Simple Calorie Counter App from Elm for Beginners](https://github.com/garrett-vangilder/ElmLearningMaterial/tree/master/elm_for_beginners/calorie_counter_app)
+3. [Score Keeper App from Elm for Beginners](https://github.com/garrett-vangilder/ElmLearningMaterial/tree/master/elm_for_beginners/score_keeper_app)
